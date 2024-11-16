@@ -17,6 +17,7 @@ img {
 .container {
   display: flex;
   padding:  8px;
+  gap: 52px;
 }
 
 .one,

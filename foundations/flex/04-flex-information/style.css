@@ -15,13 +15,14 @@ img {
 
 .container {
   display: flex;
+  padding:  8px;
 }
 
 .one,
 .two,
 .three,
 .four {
-  display: flex;
+ 
 }
 
 

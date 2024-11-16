@@ -22,7 +22,9 @@ img {
 .two,
 .three,
 .four {
- 
+  display: flex;
+  flex-flow: column wrap;
+  align-items: center;
 }
 
 

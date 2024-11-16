@@ -11,6 +11,7 @@ img {
   font-size: 36px;
   font-weight: 900;
   text-align: center;
+  margin-bottom: 32px;
 }
 
 .container {
@@ -26,6 +27,7 @@ img {
   flex-flow: column wrap;
   align-items: center;
   gap: 8px;
+  width: 200px;
 }
 
 

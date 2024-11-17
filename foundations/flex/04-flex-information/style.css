@@ -21,9 +21,7 @@ img {
 }
 
 .info {
-  display: flex;
-  flex-flow: column;
-  width: 200px;
+  max-width: 200px;
 }
 
 /* do not edit this footer */

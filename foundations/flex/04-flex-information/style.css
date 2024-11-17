@@ -14,7 +14,15 @@ img {
   margin-bottom: 32px;
 }
 
+.container {
+  display: flex;
+  gap: 52px;
+}
 
+.info {
+  display: flex;
+  flex-flow: column;
+}
 
 /* do not edit this footer */
 .footer {

@@ -55,4 +55,5 @@ ul {
 
 .content {
   display: flex;
+  flex: 1;
 }

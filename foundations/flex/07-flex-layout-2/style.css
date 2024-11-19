@@ -6,6 +6,11 @@ body {
   flex-direction: column;
 }
 
+a {
+  color:#eee;
+  text-decoration: none;
+}
+
 .header {
   height: 72px;
   background: darkmagenta;

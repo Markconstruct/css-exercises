@@ -57,6 +57,7 @@ ul {
 
 .cards {
   display: flex;
+  padding: 48px;
 }
 
 .content {
